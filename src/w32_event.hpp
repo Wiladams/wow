@@ -1,6 +1,5 @@
 #pragma once
 
-// synchapi.h
 #include "w32_types.hpp"
 
 #ifdef __cplusplus
